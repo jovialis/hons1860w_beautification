@@ -5434,6 +5434,27 @@ __metadata:
   languageName: node
   linkType: hard
 
+"beautification@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "beautification@workspace:."
+  dependencies:
+    "@chakra-ui/react": "npm:^2.8.2"
+    "@emotion/react": "npm:^11.11.1"
+    "@emotion/styled": "npm:^11.11.0"
+    "@fontsource-variable/besley": "npm:^5.0.19"
+    "@fontsource/trocchi": "npm:^5.0.18"
+    "@types/react": "npm:^18.2.45"
+    "@types/react-dom": "npm:^18.2.17"
+    framer-motion: "npm:^10.16.16"
+    react: "npm:^18.2.0"
+    react-dom: "npm:^18.2.0"
+    react-icons: "npm:^4.12.0"
+    react-scripts: "npm:^5.0.1"
+    react-use: "npm:^17.4.2"
+    typescript: "npm:^5.3.3"
+  languageName: unknown
+  linkType: soft
+
 "bfj@npm:^7.0.2":
   version: 7.1.0
   resolution: "bfj@npm:7.1.0"
@@ -8499,27 +8520,6 @@ __metadata:
   checksum: 7735eb90073db087e7e79312e3d97c8c04baf7ea7ca7b013382b6a45abbaa61b281041a98f4e13c8c80d88f843785bcc84ba189165b4b4087b1e3496ba656d77
   languageName: node
   linkType: hard
-
-"hum_beautification@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "hum_beautification@workspace:."
-  dependencies:
-    "@chakra-ui/react": "npm:^2.8.2"
-    "@emotion/react": "npm:^11.11.1"
-    "@emotion/styled": "npm:^11.11.0"
-    "@fontsource-variable/besley": "npm:^5.0.19"
-    "@fontsource/trocchi": "npm:^5.0.18"
-    "@types/react": "npm:^18.2.45"
-    "@types/react-dom": "npm:^18.2.17"
-    framer-motion: "npm:^10.16.16"
-    react: "npm:^18.2.0"
-    react-dom: "npm:^18.2.0"
-    react-icons: "npm:^4.12.0"
-    react-scripts: "npm:^5.0.1"
-    react-use: "npm:^17.4.2"
-    typescript: "npm:^5.3.3"
-  languageName: unknown
-  linkType: soft
 
 "human-signals@npm:^2.1.0":
   version: 2.1.0
@@ -14749,9 +14749,9 @@ __metadata:
   linkType: hard
 
 "whatwg-fetch@npm:^3.6.2":
-  version: 3.6.19
-  resolution: "whatwg-fetch@npm:3.6.19"
-  checksum: 01dd755492d594c8d71d47811bb3886cdb7d566684daff5ec658cf148fa2418de6b562a94ff8cceaf1cf277bfb99fa6b61258cc20de5053f5817a4d419b5d293
+  version: 3.6.20
+  resolution: "whatwg-fetch@npm:3.6.20"
+  checksum: fa972dd14091321d38f36a4d062298df58c2248393ef9e8b154493c347c62e2756e25be29c16277396046d6eaa4b11bd174f34e6403fff6aaca9fb30fa1ff46d
   languageName: node
   linkType: hard
 
